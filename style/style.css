@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(http://iwallpapers.free.fr/upload/2013/05/12/20130512182358-bd7ea7a3.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+.form
